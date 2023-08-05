@@ -52,4 +52,4 @@ To stay updated with the latest Gitsphere news, tutorials, and events, make sure
 
 For any inquiries or suggestions, feel free to contact us at contact@gitsphere.org.
 
-> Thank you for being a part of the Gitsphere community! Together, we'll master Git and GitHub like never before. Happy coding! 😊
+> Thank you for being a part of the Gitsphere community! Together, we'll master Git and GitHub like never before
