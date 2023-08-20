@@ -10,7 +10,7 @@ At Gitsphere, we are passionate about Git and GitHub and want to share our knowl
 
 Don't forget to check out our YouTube channel! 🎬 We regularly post engaging and informative videos on Git workflows, best practices, and advanced features. Hit the subscribe button and turn on the notification bell to stay updated with our latest content.
 
-[🔗 Gitsphere YouTube Channel](https://www.youtube.com/gitsphere)
+[🔗 Gitsphere YouTube Channel](https://www.youtube.com/@GitSphere/videos)
 
 ## 📣 Discord Community
 
