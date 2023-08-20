@@ -16,7 +16,7 @@ Don't forget to check out our YouTube channel! 🎬 We regularly post engaging a
 
 Join our vibrant Discord server where developers from all around the world gather to discuss Git and GitHub-related topics, share their experiences, and seek help from the community. Whether you're a beginner seeking guidance or an expert willing to assist others, we welcome you with open arms.
 
-[🔗 Join Gitsphere Discord](https://discord.gg/gitsphere)
+[🔗 Join Gitsphere Discord](https://discord.gg/cvR4YXFF)
 
 ## 🌟 Get Involved
 
